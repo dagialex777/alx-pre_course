@@ -1,12 +1,2 @@
 #!/bin/bash
-echo "School"
-wq
-
-
-
-echo "alx"
-
-clear
-
-exit
-
+echo "ALX" 
